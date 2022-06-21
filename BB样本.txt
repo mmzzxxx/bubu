@@ -461,8 +461,10 @@
 			"bfbiaotiqian": "\">",
 			"bfbiaotihou": "</a>",
 			"bflianjieqian": "href=\"",
-			"bflianjiehou": "\""},
-	{"name": "*新香蕉",
+			"bflianjiehou": "\""
+      },
+
+{"name": "*新香蕉",
 "url": "https://www.2022xxj.com",
 "tihuan": "cnzz.com",
 "User": "空",
@@ -576,6 +578,7 @@
 "bfbiaotihou": "<",
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
+
 {"name": "*扛把子影院含",
 "url": "https://www.ququmc.com",
 "tihuan": "cnzz.com",
@@ -632,9 +635,9 @@
 "bfbiaotiqian": ">",
 "bfbiaotihou": "<",
 "bflianjieqian": "href=\"",
-"bflianjiehou": "\""},	
+"bflianjiehou": "\""
+     },	
 	
 
-		
-	]
+]
 }
