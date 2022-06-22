@@ -775,11 +775,11 @@
 "bflianjiehou": "\""},
 
 {
-  "name": "黑狐影院",
+  "name": "🈲黑狐影院",
   "url": "http://heihu.tv",
   "tihuan": "cnzz.com",
   "shouye": "1",
-  "fenlei": "电影$/list/1_#电视剧$/list/2_#综艺$/list/4_#动漫$/list/3_#伦理$/list/40_",
+  "fenlei": "电影$/list/1_#电视剧$/list/2_#综艺$/list/4_#动漫$/list/3_#🔞伦理$/list/40_",
   //"fenlei": "电影$/list/1_#电视剧$/list/2_#综艺$/list/4_#动漫$/list/3_",
   "houzhui": ".html",
   "shifouercijiequ": "0",
