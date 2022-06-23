@@ -599,64 +599,64 @@
   "bflianjiehou": "\""
 },
 {
-  "name": "555电影",
-  "url": "https://www.555dy.me",
-  "tihuan": "cnzz.com",
-  "User": "空",
-  "shouye": "1",
-  "fenlei": "热播剧集$/vodshow/2--hits------#热播电影$/vodshow/1--hits------#综艺$/vodshow/3--------#动漫$/vodshow/4--------#国产剧$/vodshow/2-大陆-------#港剧$/vodshow/2-香港-------#韩剧$/vodshow/2-韩国-------#美剧$/vodshow/2-美国-------#泰剧$/vodshow/2-泰国-------#日剧$/vodshow/2-日本-------#英剧$/vodshow/2-英国-------",
-  "houzhui": "---.html",
-  "shifouercijiequ": "1",
-  "jiequqian": "<ul class=\"myui-vodlist",
-  "jiequhou": "</ul>",
-  "jiequshuzuqian": "lazyload",
-  "jiequshuzuhou": "</span>",
-  "tupianqian": "original=\"",
-  "tupianhou": "\"",
-  "biaotiqian": "title=\"",
-  "biaotihou": "\"",
-  "lianjieqian": "href=\"",
-  "lianjiehou": "\"",
-  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-  "sousuohou": "&limit=500",
-  "sousuohouzhui": "/voddetail/",
-  "ssmoshi": "0",
-  "sousuoshifouercijiequ": "0",
-  "jspic": "pic",
-  "jsname": "name",
-  "jsid": "id",
-  "ssjiequqian": "空",
-  "ssjiequhou": "空",
-  "ssjiequshuzuqian": "空",
-  "ssjiequshuzuhou": "空",
-  "sstupianqian": "空",
-  "sstupianhou": "空",
-  "ssbiaotiqian": "空",
-  "ssbiaotihou": "空",
-  "sslianjieqian": "空",
-  "sslianjiehou": "空",
-  "bfshifouercijiequ": "0",
-  "bfjiequqian": "空",
-  "bfjiequhou": "空",
-  "bfjiequshuzuqian": "id=\"playlist",
-  "bfjiequshuzuhou": "</ul>",
-  "zhuangtaiqian": "更新：</span>",
-  "zhuangtaihou": "</p>",
-  "daoyanqian": "导演：</span>",
-  "daoyanhou": "</p>",
-  "zhuyanqian": "主演：</span>",
-  "zhuyanhou": "</p>",
-  "juqingqian": "class=\"data\" style=\"display: none;\">",
-  "juqinghou": "</span>",
-  "bfyshifouercijiequ": "0",
-  "bfyjiequqian": "空",
-  "bfyjiequhou": "空",
-  "bfyjiequshuzuqian": "<a",
-  "bfyjiequshuzuhou": "/a>",
-  "bfbiaotiqian": ">",
-  "bfbiaotihou": "<",
-  "bflianjieqian": "href=\"",
-  "bflianjiehou": "\""
+“名称”： “VIP1280”，
+“url”： “http://www.vip1280.net”，
+“tihuan”： “cnzz.com”，
+“用户”： “空”，
+“寿业”： “1”，
+“fenlei”： “电影$/frim/index1/page/#电视剧$/frim/index2/page/#港台剧$/frim/index3/page/#动作片$/frim/index6/page/#爱情片$/frim/index7/page/#科幻片$/frim/index8/page/#恐怖片$/frim/index9/page/#战争片$/frim/index10/page/#喜剧片$/frim/index11/page/#记录片$/frim/index12/page/#剧情片$/frim/index20/page/#动画片$/frim/index21/page/#欧美剧$/frim/index4/page/#日韩剧$/frim/index5/page/#泰剧$/frim/index22/page/”，
+“后水”： “.html”，
+“shifouercijiequ”： “0”，
+“解曲钱”： “空”，
+“jiequhou”： “空”，
+“jiequshuzuqian”： “class=\”col-md-6 col-sm-4 col-xs-3\“”，
+“jiequshuzuhou”： “</li>”，
+“tupianqian”： “data-original=\”“，
+“tupianhou”： “\”“，
+“biaotiqian”： “title=\”“，
+“biaotihou”： “\”“，
+“连杰钱”： “href=\”“”
+“连杰侯”： “\”“，
+“sousuoqian”： “/index.php/ajax/suggest？mid=1&wd=”，
+“sousuohou”： “&limit=500”，
+“sousuohouzhui”： “/movie/index”，
+“ssmoshi”： “0”，
+“sousuoshifouercijiequ”： “0”，
+“jspic”： “pic”，
+“jsname”： “name”，
+“jsid”： “id”，
+“ssjiequqian”： “空”，
+“ssjiequhou”： “空”，
+“ssjiequshuzuqian”： “空”，
+“ssjiequshuzuhou”： “空”，
+“sstupianqian”： “空”，
+“sstupianhou”： “空”，
+“ssbiaotiqian”： “空”，
+“ssbiaotihou”： “空”，
+“sslianjieqian”： “空”，
+“sslianjiehou”： “空”，
+“bfshifouercijiequ”： “0”，
+“bfjiequqian”： “空”，
+“bfjiequhou”： “空”，
+“bfjiequshuzuqian”： “class=\”stui-content__playlist clearfix\“””
+“bfjiequshuzuhou”： “</ul>”，
+“庄太谦”： “class=\”pic-text-right\“>”，
+“庄台后”： “”，
+“道彦钱”： “导演：</跨度>”，
+“道炎后”： “</a>”，
+“竹岩前”： “主演：</跨度>”，
+“珠延后”： “</a>”，
+“聚青千”： “class=\”detail-sketch\“”，
+“巨清后”： “</跨度>”，
+“bfyshifouercijiequ”： “0”，
+“bfyjiequqian”： “空”，
+“bfyjiequhou”： “空”，
+“bfyjiequshuzuqian”： “<li”，
+“bfyjiequshuzuhou”： “</li>”，
+“bfbiaotiqian”： “\”>“，
+“bfbiaotihou”： “</a>”，
+“bflianjieqian”： “href=\”“”
+“bflianjiehou”： “\””
 },
 {"name":"LIBVIO",
 "tihuan":"cnzz.com",
