@@ -20,7 +20,7 @@
 {"name":"老鸭资源🔞","url":"https://api.apilyzy.com/api.php"},
 {"name":"佳丽资源🔞","url":"https://jializyzapi.com/api.php"},
 {"name":"酷豆资源🔞","url":"  https://api.kdapi.info/api.php"},
-{"name":"乐播资源🔞","url":"https://lbapi9.com/api.php"},],
+{"name":"乐播资源🔞","url":"https://lbapi9.com/api.php"}],
 "lunbo":[
 {"name":"斗鱼一起看","fanye":"aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMjA4Lw==","qianzhui":"aHR0cHM6Ly9tLmRvdXl1LmNvbS8="},
 {"name":"斗鱼舞蹈","fanye":"aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMTAwOC8=","qianzhui":"aHR0cHM6Ly9tLmRvdXl1LmNvbS8="},
