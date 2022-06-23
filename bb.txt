@@ -25,8 +25,8 @@
 {"name":"🔞佳丽资源","url":"https://jializyzapi.com/api.php"},
 {"name":"🔞酷豆资源","url":"  https://api.kdapi.info/api.php"},
 {"name":"🔞乐播资源","url":"https://lbapi9.com/api.php"},
-{"name":"🔞一本道","url":"https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml"},
-{"name":"🔞乐鱼资源","url":"https://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xml"}
+{"name":"🔞探探资源","url":"https://apittzy.com/api.php"},
+{"name":"🔞影库资源","url":"https://api.ykapi.net/api.php"}
 
 ],
 "lunbo":[
